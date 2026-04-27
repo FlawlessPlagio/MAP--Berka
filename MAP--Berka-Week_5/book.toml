@@ -1,5 +1,0 @@
-[book]
-authors = ["Adam Ligocki, Tomáš Lázna, Petr Gábrlík"]
-language = "en"
-src = "book_src"
-title = "MPC-MAP"
